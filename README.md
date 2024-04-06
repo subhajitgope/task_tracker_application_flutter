@@ -4,6 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
+## If you want to run the the app
+
+then download the zip file and unzip it and then open in any IDE(Android studio or VS code),
+
+And run it then you get the desired output.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
